@@ -1,0 +1,19 @@
+@(student: Student)
+
+@layouts.layout(student.id){
+    <div class="container">
+        <div class="jumbotron text-center">
+            <h2>@student.id</h2>
+        </div>
+        <h2> Id: @student.id </h2>
+        <h2> Name: @student.name </h2>
+        <h2> Address: @student.address</h2>
+        <h2> Phone: @student.phone</h2>
+        <h2>Email: @student.email</h2>
+        <div class="btn-group btn-group-sm">
+            <a class="btn btn-success" href="@routes.StudentController.edit(student.id)">Edit</a>
+            <a href="@routes.StudentController.destroy(student.id)" class="btn btn-danger">Delete</a>
+            <a href="@routes.StudentController.index()" class="btn btn-info">Back</a>
+        </div>
+    </div>
+}

@@ -1,0 +1,38 @@
+@(studentForm: Form[Student])
+@import helper._
+
+@layouts.layout("Edit Employee"){
+    @helper.form(action = helper.CSRF(routes.StudentController.something())){
+        <div class="container">
+            <div class="jumbotron text-center">
+                <h2>Edit Employee</h2>
+            </div>
+
+            <form>
+                <div class="form-group">
+                @helper.inputText(studentForm("Id"),'class -> "form-control")
+
+                </div>
+
+                <div class="form-group">
+                @helper.inputText(studentForm("Name"),'class -> "form-control")
+
+                </div>
+                <div class="form-group">
+                @helper.inputText(studentForm("Address"),'class -> "form-control")
+
+                </div>
+                <div class="form-group">
+                @helper.inputText(studentForm("Phone"),'class -> "form-control")
+
+                </div>
+                <div class="form-group">
+                @helper.inputText(studentForm("Email"),'class -> "form-control")
+
+                </div>
+
+                <button type="submit" class="btn btn-success">Submit</button>
+            </form>
+        </div>
+    }
+}

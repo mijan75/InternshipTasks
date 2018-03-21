@@ -1,0 +1,734 @@
+<page 1>
+Date of inquiry: 17/09/2015 01:00
+Data of user that has requested the document:
+Institute code: 023
+Institute name bank: STANDARD CHARTERED BANK
+Branch code: 0001
+Username: VUSA6720
+Bangladesh Bank - Credit Information Bureau
+WARNING:
+1) In providing any credit information to any Bank or Financial Institution, Bangladesh Bank expressly disclaims any liability in respect of any claims, loss and damages, charges, expenses, costs
+howsoever, caused by wrong information by any Bank or Financial Institution or by disclosing CIB report to the Borrower after receiving credit information from the Bangladesh Bank.
+2) The CIB report is strictly confidential and not to be disclosed to the Borrower or any other party. The report is to be used only by the concerned Bank/Financial Institution requesting for CIB report.
+Any violation of this will involve penalty of Tk. 1 (one) lakh as per Bangladesh Bank order 1972, chapter –IV, article – 48.
+SUBJECT DATA
+(Borrower having outstanding amount of Tk. 1 and above are included in the CIB Database)
+MATCHED
+Subject matched: Yes
+Type of subject: Proprietorship
+Title: M/S
+Propietor TIN: 154-105-7442
+Owner's National ID number: 2695433104190
+Owner's ID type: -
+Owner's ID number: -
+Owner's TIN: 154-105-7442
+Owner's gender: Male
+Owner's country of birth:: BANGLADESH
+Sector type: Private
+Remarks: -
+CIB subject code: L03573673
+Reference number (Ref.): 1
+Trade Name: CLASSICAL HANDMADE PRODUCT BD
+Owner's Title: MD
+Owner's name: TAUHID BIN ABDUS SALAM
+Owner's father's name: ABDUS SALAM
+Owner's mother's name: QUMRUN NAHAR
+Owner's date of birth: 07/12/1981
+Owner's district/city of birth: PIROJPUR
+Telephone number: 01713036940
+Sector code: 903090 - 903090 - Others
+Addresses
+Type Address Postal code District/City and Country
+Proprietorship’s Main 26, BAITUL AMAN JAME MOSJID MOSQUE
+COMPLEX, MOTIJHEEL
+- DHAKA(BANGLADESH)
+Proprietorship’s Additional 26,BAITUL AMAN MOSQUE COMPLEX,INNER
+CIRCULAR ROAD
+1000 DHAKA(BANGLADESH)
+Owner's main VILL-KHERACHIR, PS-MATHBARIA - PIROJPUR(BANGLADESH)
+Owner's Additional 26,BAITUL AMAN MOSQUE COMPLEX,INNER
+CIRCULAR ROAD
+1000 DHAKA(BANGLADESH)
+INQUIRED
+CIB subject code: L03573673
+Document created on: 17/09/2015 01:00
+CONFIDENTIAL Page 1 of 10
+
+<page 2>
+LINKED
+Subject matched: -
+Type of subject: Individual
+National ID number: 2695433104190
+ID type: -
+ID number: -
+TIN 154-105-7442
+Gender: Male
+Sector type: Private
+District/City of birth: PIROJPUR
+Date of birth: 07/12/1981
+CIB subject code: 901901164
+Reference number (Ref.): 2
+Title, Name: MOHAMMAD, TAUHID BIN ABDUS SALAM
+Title, Father's name: MOHAMMAD, ABDUS SALAM
+Title, Mother's name: KAMRUN NAHAR
+Title, Spouse's name: -
+Telephone number: 88027193206
+Sector code: 915050 - 915050 - Other Local Individuals
+Country of birth: BANGLADESH
+Remarks: -
+Addresses
+Type Address Postal code District/City and Country
+Main KHETACHIRA,MATHBARIA - PIROJPUR(BANGLADESH)
+Additional CLASSICAL HANDMADE PRODUCT 26
+BAITUL AMAN MOSQUE COMP.MOTIJHEEL
+1000 DHAKA(BANGLADESH)
+1. Summary of Facilities as Borrower & Co - borrower
+Number of reporting Institutes: 3 Total Outstanding amount: 25,672,436
+Number of living facilities: 16 Total Overdue amount: 209,558
+Number of Stay Order Contract: 0 Total Outstanding amount for Stay Order
+Contracts:
+0
+1.(a) Summary of the Funded Facilities
+Total Outstanding Amount: 25,672,436
+Contract
+Category
+UC SMA SS DF BL BLW Terminated Stay Order Requested
+No. Amount No. Amount No. Amount No. Amount No. Amount No. Amount No. Amount No. Amount No.
+Installments 4 6,316,976 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NotInstallments 12 19,355,46
+0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Cards 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 16 25,672,43
+6
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+DETAIL: INSTALMENT FACILITIES AS BORROWER & CO - BORROWER
+Sanction Limit 13,350,000
+Outstanding 6,316,976
+Overdue 209,558
+Document created on: 17/09/2015 01:00
+CONFIDENTIAL Page 2 of 10
+
+<page 3>
+Details for:
+Term Loan
+Ref:
+1
+FI Code:
+B04
+CIB Contract Code:
+-
+FI Contract Code:
+-
+Contract Phase: Living
+Role: Borrower
+Starting Date: 11/10/2011
+End Date: 11/10/2015
+Date of Last Update: 30/08/2015
+Sanction Limit: 2,500,000
+Total Disbursement Amount: 2,500,000
+Date of Law suit: -
+Date of classification: -
+#NPI: 0
+Reorganized credit: No
+Guaranteed Amount: 0
+Personal Guarantee Amount: 0
+Security (RG): 0
+No. of times Rescheduled: 000001
+Remarks: -
+Other subjects linked to the same contract
+CIB subject code Role
+T03772634 Guarantor
+602192578 Guarantor
+Year Month Outstanding Overdue Status Default
+2015 07 341,149 0 UC No
+2015 06 408,869 0 UC No
+2015 05 475,195 0 UC No
+2015 04 540,610 0 UC No
+2015 03 604,248 0 UC No
+2015 02 668,197 0 UC No
+2015 01 731,248 1,399 UC No
+2014 12 790,432 0 UC No
+2014 11 0 0 UC No
+2014 10 0 0 UC No
+2014 09 0 0 UC No
+2014 08 0 0 UC No
+Details for:
+Term Loan
+Ref:
+1
+FI Code:
+B02
+CIB Contract Code:
+-
+FI Contract Code:
+-
+Contract Phase: Living
+Role: Borrower
+Starting Date: 02/02/2014
+End Date: 01/02/2019
+Date of Last Update: 31/08/2015
+Sanction Limit: 3,500,000
+Total Disbursement Amount: 3,500,000
+Date of Law suit: -
+Date of classification: -
+#NPI: 2
+Reorganized credit: No
+Guaranteed Amount: 0
+Personal Guarantee Amount: 0
+Security (RG): 0
+No. of times Rescheduled: -
+Remarks: -
+Year Month Outstanding Overdue Status Default
+2015 07 3,314,374 194,870 UC No
+2015 06 3,411,809 194,870 UC No
+2015 05 3,280,541 97,435 UC No
+2015 04 3,475,411 194,870 UC No
+2015 03 3,475,411 97,435 UC No
+2015 02 3,433,817 0 UC No
+2015 01 3,628,687 194,870 UC No
+2014 12 3,726,122 194,870 UC No
+2014 11 0 194,870 UC No
+2014 10 0 194,870 UC No
+2014 09 0 0 UC No
+2014 08 0 0 UC No
+Document created on: 17/09/2015 01:00
+CONFIDENTIAL Page 3 of 10
+
+<page 4>
+Details for:
+Term Loan
+Ref:
+1
+FI Code:
+023
+CIB Contract Code:
+605992679
+FI Contract Code:
+0000101055700
+Contract Phase: Living
+Role: Borrower
+Starting Date: 29/01/2013
+End Date: 21/07/2016
+Date of Last Update: 30/08/2015
+Sanction Limit: 6,850,000
+Total Disbursement Amount: 6,850,000
+Date of Law suit: -
+Date of classification: -
+#NPI: 0
+Reorganized credit: No
+Guaranteed Amount: 0
+Personal Guarantee Amount: 0
+Security (RG): 0
+No. of times Rescheduled: 000000
+Remarks: -
+Year Month Outstanding Overdue Status Default
+2015 07 2,417,043 0 UC No
+2015 06 2,601,300 0 UC No
+2015 05 2,782,586 0 UC No
+2015 04 2,960,951 0 UC No
+2015 03 3,136,440 0 UC No
+2015 02 3,309,100 0 UC No
+2015 01 3,478,978 0 UC No
+2014 12 3,646,117 0 UC No
+2014 11 0 0 UC No
+2014 10 0 0 UC No
+2014 09 0 0 UC No
+2014 08 0 0 UC No
+Details for:
+Term Loan
+Ref:
+2
+FI Code:
+B02
+CIB Contract Code:
+-
+FI Contract Code:
+-
+Contract Phase: Living
+Role: Borrower
+Starting Date: 15/01/2013
+End Date: 14/01/2017
+Date of Last Update: 31/08/2015
+Sanction Limit: 500,000
+Total Disbursement Amount: 500,000
+Date of Law suit: -
+Date of classification: -
+#NPI: 1
+Reorganized credit: No
+Guaranteed Amount: 0
+Personal Guarantee Amount: 0
+Security (RG): 0
+No. of times Rescheduled: -
+Remarks: -
+Year Month Outstanding Overdue Status Default
+2015 07 244,410 14,688 UC No
+2015 06 259,098 14,688 UC No
+2015 05 247,246 0 UC No
+2015 04 276,622 14,688 UC No
+2015 03 276,622 0 UC No
+2015 02 278,316 0 UC No
+2015 01 293,004 0 UC No
+2014 12 307,692 0 UC No
+2014 11 0 14,688 UC No
+2014 10 0 14,688 UC No
+2014 09 0 14,688 UC No
+2014 08 0 0 UC No
+DETAIL: NON INSTALMENT FACILITIES AS BORROWER & CO - BORROWER
+Sanction Limit 20,418,380
+Outstanding 19,355,460
+Overdue 0
+Document created on: 17/09/2015 01:00
+CONFIDENTIAL Page 4 of 10
+
+<page 5>
+Details for:
+Demand Loan (Not Installment)
+Ref:
+1
+FI Code:
+B02
+CIB Contract Code:
+-
+FI Contract Code:
+-
+Contract Phase: Living
+Role: Borrower
+Total Disbursement Amount: 0
+Starting Date: 18/05/2015
+End Date: 14/11/2015
+Date of Law suit: -
+Date of Last Update: 31/08/2015
+Date of classification: -
+Reorganized credit: No
+Guaranteed Amount: 0
+Personal Guarantee Amount: 0
+Security (RG): 0
+No. of times Rescheduled: -
+Remarks: -
+Year Month Sanction Limit Outstanding Overdue Status Default
+2015 07 1,581,500 1,610,103 0 UC No
+2015 06 1,581,500 1,610,103 0 UC No
+2015 05 1,581,500 1,581,500 0 UC No
+Details for:
+Demand Loan (Not Installment)
+Ref:
+1
+FI Code:
+B02
+CIB Contract Code:
+-
+FI Contract Code:
+-
+Contract Phase: Living
+Role: Borrower
+Total Disbursement Amount: 0
+Starting Date: 18/05/2015
+End Date: 14/11/2015
+Date of Law suit: -
+Date of Last Update: 31/08/2015
+Date of classification: -
+Reorganized credit: No
+Guaranteed Amount: 0
+Personal Guarantee Amount: 0
+Security (RG): 0
+No. of times Rescheduled: -
+Remarks: -
+Year Month Sanction Limit Outstanding Overdue Status Default
+2015 07 1,625,000 1,654,374 0 UC No
+2015 06 1,625,000 1,654,374 0 UC No
+2015 05 1,625,000 1,625,000 0 UC No
+Details for:
+Demand Loan (Not Installment)
+Ref:
+1
+FI Code:
+B02
+CIB Contract Code:
+-
+FI Contract Code:
+-
+Contract Phase: Living
+Role: Borrower
+Total Disbursement Amount: 0
+Starting Date: 18/05/2015
+End Date: 14/11/2015
+Date of Law suit: -
+Date of Last Update: 31/08/2015
+Date of classification: -
+Reorganized credit: No
+Guaranteed Amount: 0
+Personal Guarantee Amount: 0
+Security (RG): 0
+No. of times Rescheduled: -
+Remarks: -
+Year Month Sanction Limit Outstanding Overdue Status Default
+2015 07 1,301,400 1,325,039 0 UC No
+2015 06 1,301,400 1,325,039 0 UC No
+2015 05 1,301,400 1,301,400 0 UC No
+Document created on: 17/09/2015 01:00
+CONFIDENTIAL Page 5 of 10
+
+<page 6>
+Details for:
+Foreign Bill Purchase (FBP)
+Ref:
+1
+FI Code:
+B02
+CIB Contract Code:
+-
+FI Contract Code:
+-
+Contract Phase: Living
+Role: Borrower
+Total Disbursement Amount: 936,000
+Starting Date: 30/06/2015
+End Date: -
+Date of Law suit: -
+Date of Last Update: 31/08/2015
+Date of classification: -
+Reorganized credit: No
+Guaranteed Amount: 0
+Personal Guarantee Amount: 0
+Security (RG): 0
+No. of times Rescheduled: -
+Remarks: -
+Year Month Sanction Limit Outstanding Overdue Status Default
+2015 07 936,000 936,000 0 UC No
+2015 06 936,000 936,000 0 UC No
+Details for:
+Demand Loan (Not Installment)
+Ref:
+1
+FI Code:
+B02
+CIB Contract Code:
+-
+FI Contract Code:
+-
+Contract Phase: Living
+Role: Borrower
+Total Disbursement Amount: 0
+Starting Date: 23/02/2015
+End Date: 22/08/2015
+Date of Law suit: -
+Date of Last Update: 31/08/2015
+Date of classification: -
+Reorganized credit: No
+Guaranteed Amount: 0
+Personal Guarantee Amount: 0
+Security (RG): 0
+No. of times Rescheduled: -
+Remarks: -
+Year Month Sanction Limit Outstanding Overdue Status Default
+2015 07 1,000,000 1,052,753 0 UC No
+2015 06 1,000,000 1,052,753 0 UC No
+2015 05 1,000,000 1,014,903 0 UC No
+2015 04 1,000,000 1,014,903 0 UC No
+2015 03 1,000,000 1,014,903 0 UC No
+2015 02 1,000,000 1,000,000 0 UC No
+Details for:
+Demand Loan (Not Installment)
+Ref:
+1
+FI Code:
+B02
+CIB Contract Code:
+-
+FI Contract Code:
+-
+Contract Phase: Living
+Role: Borrower
+Total Disbursement Amount: 0
+Starting Date: 23/02/2015
+End Date: 22/08/2015
+Date of Law suit: -
+Date of Last Update: 31/08/2015
+Date of classification: -
+Reorganized credit: No
+Guaranteed Amount: 0
+Personal Guarantee Amount: 0
+Security (RG): 0
+No. of times Rescheduled: -
+Remarks: -
+Year Month Sanction Limit Outstanding Overdue Status Default
+2015 07 1,000,000 1,052,753 0 UC No
+2015 06 1,000,000 1,052,753 0 UC No
+2015 05 1,000,000 1,014,903 0 UC No
+2015 04 1,000,000 1,014,903 0 UC No
+2015 03 1,000,000 1,014,903 0 UC No
+2015 02 1,000,000 1,000,000 0 UC No
+Document created on: 17/09/2015 01:00
+CONFIDENTIAL Page 6 of 10
+
+<page 7>
+Details for:
+Demand Loan (Not Installment)
+Ref:
+1
+FI Code:
+B02
+CIB Contract Code:
+-
+FI Contract Code:
+-
+Contract Phase: Living
+Role: Borrower
+Total Disbursement Amount: 0
+Starting Date: 18/05/2015
+End Date: 14/11/2015
+Date of Law suit: -
+Date of Last Update: 31/08/2015
+Date of classification: -
+Reorganized credit: No
+Guaranteed Amount: 0
+Personal Guarantee Amount: 0
+Security (RG): 0
+No. of times Rescheduled: -
+Remarks: -
+Year Month Sanction Limit Outstanding Overdue Status Default
+2015 07 681,480 694,133 0 UC No
+2015 06 681,480 694,133 0 UC No
+2015 05 681,480 681,480 0 UC No
+Details for:
+Demand Loan (Not Installment)
+Ref:
+1
+FI Code:
+B02
+CIB Contract Code:
+-
+FI Contract Code:
+-
+Contract Phase: Living
+Role: Borrower
+Total Disbursement Amount: 0
+Starting Date: 22/02/2015
+End Date: 21/08/2015
+Date of Law suit: -
+Date of Last Update: 31/08/2015
+Date of classification: -
+Reorganized credit: No
+Guaranteed Amount: 0
+Personal Guarantee Amount: 0
+Security (RG): 0
+No. of times Rescheduled: -
+Remarks: -
+Year Month Sanction Limit Outstanding Overdue Status Default
+2015 07 675,000 711,079 0 UC No
+2015 06 675,000 711,079 0 UC No
+2015 05 675,000 685,331 0 UC No
+2015 04 675,000 685,331 0 UC No
+2015 03 675,000 685,331 0 UC No
+2015 02 675,000 675,000 0 UC No
+Details for:
+Demand Loan (Not Installment)
+Ref:
+1
+FI Code:
+B02
+CIB Contract Code:
+-
+FI Contract Code:
+-
+Contract Phase: Living
+Role: Borrower
+Total Disbursement Amount: 0
+Starting Date: 23/02/2015
+End Date: 22/08/2015
+Date of Law suit: -
+Date of Last Update: 31/08/2015
+Date of classification: -
+Reorganized credit: No
+Guaranteed Amount: 0
+Personal Guarantee Amount: 0
+Security (RG): 0
+No. of times Rescheduled: -
+Remarks: -
+Year Month Sanction Limit Outstanding Overdue Status Default
+2015 07 1,000,000 1,052,753 0 UC No
+2015 06 1,000,000 1,052,753 0 UC No
+2015 05 1,000,000 1,014,903 0 UC No
+2015 04 1,000,000 1,014,903 0 UC No
+2015 03 1,000,000 1,014,903 0 UC No
+2015 02 1,000,000 1,000,000 0 UC No
+Document created on: 17/09/2015 01:00
+CONFIDENTIAL Page 7 of 10
+
+<page 8>
+Details for:
+Overdraft
+Ref:
+1
+FI Code:
+B02
+CIB Contract Code:
+-
+FI Contract Code:
+-
+Contract Phase: Living
+Role: Borrower
+Total Disbursement Amount: 1,600,000
+Starting Date: 23/09/2014
+End Date: 31/03/2016
+Date of Law suit: -
+Date of Last Update: 31/08/2015
+Date of classification: -
+Reorganized credit: No
+Guaranteed Amount: 0
+Personal Guarantee Amount: 0
+Security (RG): 0
+No. of times Rescheduled: -
+Remarks: -
+Year Month Sanction Limit Outstanding Overdue Status Default
+2015 07 7,500,000 6,092,064 0 UC No
+2015 06 7,500,000 7,692,064 0 UC No
+2015 05 5,000,000 4,998,375 0 UC No
+2015 04 5,000,000 5,180,375 0 UC No
+2015 03 5,000,000 5,180,375 0 UC No
+2015 02 5,000,000 4,997,470 0 UC No
+2015 01 5,000,000 5,079,297 0 UC No
+2014 12 5,000,000 5,079,297 0 UC No
+2014 11 5,000,000 4,870,397 0 UC No
+2014 10 5,000,000 4,870,397 0 UC No
+2014 09 5,000,000 4,870,397 0 UC No
+Details for:
+Demand Loan (Not Installment)
+Ref:
+1
+FI Code:
+B02
+CIB Contract Code:
+-
+FI Contract Code:
+-
+Contract Phase: Living
+Role: Borrower
+Total Disbursement Amount: 0
+Starting Date: 18/05/2015
+End Date: 14/11/2015
+Date of Law suit: -
+Date of Last Update: 31/08/2015
+Date of classification: -
+Reorganized credit: No
+Guaranteed Amount: 0
+Personal Guarantee Amount: 0
+Security (RG): 0
+No. of times Rescheduled: -
+Remarks: -
+Year Month Sanction Limit Outstanding Overdue Status Default
+2015 07 1,622,000 1,651,321 0 UC No
+2015 06 1,622,000 1,651,321 0 UC No
+2015 05 1,622,000 1,622,000 0 UC No
+Details for:
+Demand Loan (Not Installment)
+Ref:
+1
+FI Code:
+B02
+CIB Contract Code:
+-
+FI Contract Code:
+-
+Contract Phase: Living
+Role: Borrower
+Total Disbursement Amount: 0
+Starting Date: 18/05/2015
+End Date: 14/11/2015
+Date of Law suit: -
+Date of Last Update: 31/08/2015
+Date of classification: -
+Reorganized credit: No
+Guaranteed Amount: 0
+Personal Guarantee Amount: 0
+Security (RG): 0
+No. of times Rescheduled: -
+Remarks: -
+Year Month Sanction Limit Outstanding Overdue Status Default
+2015 07 1,496,000 1,523,088 0 UC No
+2015 06 1,496,000 1,523,088 0 UC No
+2015 05 1,496,000 1,496,000 0 UC No
+1.(b) Summary of the Not Funded Facilities
+Total Outstanding Amount: 0
+Document created on: 17/09/2015 01:00
+CONFIDENTIAL Page 8 of 10
+
+<page 9>
+Contract
+Category
+UC SMA SS DF BL BLW Terminated Stay Order Requested
+No. Amount No. Amount No. Amount No. Amount No. Amount No. Amount No. Amount No. Amount No.
+GU, LC, OF 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2. Summary of Facilities as Guarantor
+Number of reporting Institutes: 1 Total Outstanding amount: 1,757,759
+Number of living facilities: 1 Total Overdue amount: 0
+Number of Stay Order Contract: 0 Total Outstanding amount for Stay Order
+Contracts:
+0
+Contract
+Category
+UC SMA SS DF BL BLW Terminated Stay Order Requested
+No. Amount No. Amount No. Amount No. Amount No. Amount No. Amount No. Amount No. Amount No.
+Installments 1 1,757,759 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NotInstallments 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Cards 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Total 1 1,757,759 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+DETAIL: INSTALMENT FACILITIES AS GUARANTOR
+Sanction Limit 2,000,000
+Outstanding 1,757,759
+Overdue 0
+Details for:
+Term Loan
+Ref:
+2
+FI Code:
+F03
+CIB Contract Code:
+-
+FI Contract Code:
+-
+Contract Phase: Living
+Role: Guarantor
+Starting Date: 29/01/2015
+End Date: 01/02/2018
+Date of Last Update: 30/08/2015
+Sanction Limit: 2,000,000
+Total Disbursement Amount: 2,000,000
+Date of Law suit: -
+Date of classification: -
+#NPI: 0
+Reorganized credit: No
+Guaranteed Amount: 0
+Personal Guarantee Amount: 6,000,000
+Security (RG): 0
+No. of times Rescheduled: 000000
+Remarks: -
+Other subjects linked to the same contract
+CIB subject code Role
+S05274444 Guarantor
+503467769 Guarantor
+P05161065 Borrower
+Year Month Outstanding Overdue Status Default
+2015 07 1,757,759 0 UC No
+2015 06 1,807,239 0 UC No
+2015 05 1,856,310 0 UC No
+2015 04 1,904,975 0 UC No
+2015 03 1,904,975 0 UC No
+2015 02 1,953,238 0 UC No
+2015 01 2,000,000 0 UC No
+NOTES:
+1) For any inconsistency, Banks should communicate to CIB immediately
+2) FI code indicates number of Banks/Financial institution
+Document created on: 17/09/2015 01:00
+CONFIDENTIAL Page 9 of 10
+
+<page 10>
+3) Borrowers having classified account i.e. SS, DF, BL, BLW are treated as defaulters
+5) Information indicated with ‘*’ have not been incorporated in CIB report due to stay order of the Honorable High Court
+6) All amounts are expressed in Taka
+Document created on: 17/09/2015 01:00
+CONFIDENTIAL Page 10 of 10
+
+
+

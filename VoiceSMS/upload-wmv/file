@@ -1,0 +1,29 @@
+@RestController
+public class GreetingController {
+
+    private final static Logger log = LoggerFactory.getLogger(GreetingController.class);
+
+    @Autowired
+    private HttpServletRequest request;
+
+
+    @RequestMapping(value = "/uploadfile", method = RequestMethod.POST)
+        public
+        @ResponseBody
+        ResponseEntity handleFileUpload(@RequestParam("file") MultipartFile file) {
+            if (!file.isEmpty()) {
+                try {
+                    String uploadsDir = "/uploads/";
+                    String realPathtoUploads =  request.getServletContext().getRealPath(uploadsDir);
+                    if(! new File(realPathtoUploads).exists())
+                    {
+                        new File(realPathtoUploads).mkdir();
+                    }
+
+                    log.info("realPathtoUploads = {}", realPathtoUploads);
+
+
+                    String orgName = file.getOriginalFilename();
+                    String filePath = realPathtoUploads + orgName;
+                    File dest = new File(filePath);
+                    file.transferTo(dest);
